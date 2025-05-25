@@ -88,7 +88,7 @@
         <mxCell id="hHHyagfHopfNYr1wxq4b-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-36" value="&#xa;采用STM32/NRF52832等低功耗 MCU完成本地逻辑与 I²C 数据封装&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-37" value="&#xa;集成红外体温、心率血压与三轴加速度传感器&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
