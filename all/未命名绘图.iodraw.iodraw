@@ -76,7 +76,7 @@
             <mxPoint x="440" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-33" value="&#xa;构建融合 UWB、RFID、AOA 等技术的定位与通信子系统&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hHHyagfHopfNYr1wxq4b-11" target="hHHyagfHopfNYr1wxq4b-33">
@@ -85,7 +85,7 @@
             <mxPoint x="440" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-35" value="&#xa;通过可拆卸表带结构提升维护便捷性&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-36" value="&#xa;采用STM32/NRF52832等低功耗 MCU完成本地逻辑与 I²C 数据封装&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
