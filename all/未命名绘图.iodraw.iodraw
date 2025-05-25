@@ -103,7 +103,7 @@
         <mxCell id="hHHyagfHopfNYr1wxq4b-40" value="研发整套软件平台，包含定位数据解析引擎、实时电子地图可视化、与视频监控的联动（告警触发摄像头弹窗，响应 &amp;lt; 500 ms）、历史轨迹查询回放及生命体征异常预警等功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="250" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-41" value="&#xa;研发整套平台软件系统：构建可视化轨迹分析引擎，实现对人员位置与体征数据的全面管理&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="625" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hHHyagfHopfNYr1wxq4b-1" target="hHHyagfHopfNYr1wxq4b-38">
