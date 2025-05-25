@@ -76,7 +76,7 @@
             <mxPoint x="440" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-33" value="&#xa;构建融合 UWB、RFID、AOA 等技术的定位与通信子系统&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-33" value="构建定位与通信子系统：采用UWB、RFID、AOA等多种技术融合通信，提升定位多样性与精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hHHyagfHopfNYr1wxq4b-11" target="hHHyagfHopfNYr1wxq4b-33">
