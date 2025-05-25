@@ -97,7 +97,7 @@
         <mxCell id="hHHyagfHopfNYr1wxq4b-38" value="配置433MHz/125khz双频通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-39" value="&#xa;实时解析并上传人员位置与体征数据&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="640" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
