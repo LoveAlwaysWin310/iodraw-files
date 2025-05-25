@@ -91,10 +91,10 @@
         <mxCell id="hHHyagfHopfNYr1wxq4b-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-37" value="&#xa;集成红外体温、心率血压与三轴加速度传感器&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hHHyagfHopfNYr1wxq4b-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hHHyagfHopfNYr1wxq4b-38" value="配置433MHz/125khz双频通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHyagfHopfNYr1wxq4b-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
